@@ -7,14 +7,3 @@ p {
     font-family: sans-serif;
     font-style: normal;
 }
-#navbar {
-    background-color: yellow;
-    padding: 80px;
-}
-
-.intro {
-    font-family: arial;
-    background-color: grey;
-    color: darkgray;
-
-}
